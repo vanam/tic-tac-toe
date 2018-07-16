@@ -1,4 +1,5 @@
 # TIC TAC TOE 2.0
+[![Build Status](https://api.travis-ci.com/vanam/tic-tac-toe.svg?branch=java)](https://travis-ci.com/vanam/tic-tac-toe)
 
 * Language: Java
 * Implementation notes: [NOTES.md](NOTES.md)
